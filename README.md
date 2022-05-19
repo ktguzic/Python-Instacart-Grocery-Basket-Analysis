@@ -17,16 +17,22 @@ customers with applicable marketing campaigns to see whether they have an effect
 of their products. 
 
 ## Data:
+
 orders
+
 products
+
 departments
+
 customers
 
 Data citation [here.](https://www.instacart.com/datasets/grocery-shopping-2017)
+
 Accessed November 8th, 2021.
 
 ## Tools:
 pandas - for data analysis
+
 seaborbn - for visualizations
 
 ## Executing the code
