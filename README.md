@@ -30,5 +30,4 @@ pandas - for data analysis
 seaborbn - for visualizations
 
 ## Executing the code
-the code will be available under the /scritps/ file folder (in tasks) 
-
+the code will be available under the /scritps/ file folder
