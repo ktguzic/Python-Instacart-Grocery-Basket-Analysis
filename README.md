@@ -2,7 +2,7 @@
 
 This analysis explored the sales patterns of current customers of Instacart Grocery (an online app). The goal of the analysis was to explore and derive insights and suggestions for strategies to better segmentation based on the provided criteria. 
 
-![](C:\Users\guzic\OneDrive\Desktop\Picture1.png)
+![](https://user-images.githubusercontent.com/105862558/169357682-22c4a96c-d891-416f-b9ee-488da2499af5.png)
 
 ## Objective
 Instacart, an online grocery store that operates
