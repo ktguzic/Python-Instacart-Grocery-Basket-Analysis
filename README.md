@@ -33,7 +33,7 @@ Accessed November 8th, 2021.
 ## Tools:
 pandas - for data analysis
 
-seaborbn - for visualizations
+seaborn - for visualizations
 
 ## Executing the code
 the code will be available under the /scritps/ file folder
